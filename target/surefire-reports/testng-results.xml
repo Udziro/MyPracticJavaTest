@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-10T17:36:58 EET" name="AutoTestJava2.SimpleTest" finished-at="2020-11-10T17:36:58 EET" duration-ms="56">
+    <groups>
+    </groups>
+    <test started-at="2020-11-10T17:36:58 EET" name="Command line test" finished-at="2020-11-10T17:36:58 EET" duration-ms="56">
+      <class name="AutoTestJava2.SimpleTest">
+        <test-method signature="resultAdd()[pri:0, instance:AutoTestJava2.SimpleTest@18bf3d14]" started-at="2020-11-10T17:36:58 EET" name="resultAdd" finished-at="2020-11-10T17:36:58 EET" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAdd -->
+        <test-method signature="resultAdvision()[pri:0, instance:AutoTestJava2.SimpleTest@18bf3d14]" started-at="2020-11-10T17:36:58 EET" name="resultAdvision" finished-at="2020-11-10T17:36:58 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAdvision -->
+        <test-method signature="resultMultiplication()[pri:0, instance:AutoTestJava2.SimpleTest@18bf3d14]" started-at="2020-11-10T17:36:58 EET" name="resultMultiplication" finished-at="2020-11-10T17:36:58 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultMultiplication -->
+        <test-method signature="resultScalbl()[pri:0, instance:AutoTestJava2.SimpleTest@18bf3d14]" started-at="2020-11-10T17:36:58 EET" name="resultScalbl" finished-at="2020-11-10T17:36:58 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultScalbl -->
+        <test-method signature="resultSubstation()[pri:0, instance:AutoTestJava2.SimpleTest@18bf3d14]" started-at="2020-11-10T17:36:58 EET" name="resultSubstation" finished-at="2020-11-10T17:36:58 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultSubstation -->
+        <test-method signature="resultSqearRoot()[pri:0, instance:AutoTestJava2.SimpleTest@18bf3d14]" started-at="2020-11-10T17:36:58 EET" name="resultSqearRoot" finished-at="2020-11-10T17:36:58 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultSqearRoot -->
+      </class> <!-- AutoTestJava2.SimpleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- AutoTestJava2.SimpleTest -->
+</testng-results>
