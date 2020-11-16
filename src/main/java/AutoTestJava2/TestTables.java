@@ -1,8 +1,9 @@
 package AutoTestJava2;
 
+import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.Test;
+
 
 public class TestTables {
     public void initializationDriver(String initializationDriver){
